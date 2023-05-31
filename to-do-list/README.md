@@ -1,9 +1,3 @@
-# ToDo List React App
-
-![](to-do-list/todos.png)
-
-## [Patika.dev](https://academy.patika.dev/profile) Öğrenmeye Buradan Başlayabilirsiniz.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
